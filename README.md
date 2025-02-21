@@ -6,7 +6,12 @@ Ich werde diese Lernperiode mich weiterhin auf die LBs konzentrieren. Momentan h
 
 ## 21.02.2025
 
-- [ ] Probeprüfung von dem Modul Docker beenden
-- [ ] An den Moodle Tests vom Modul 114 weiterarbeiten HZ2
+- [x] Probeprüfung von dem Modul Docker beenden
+- [x] An den Moodle Tests vom Modul 114 weiterarbeiten HZ2
+
+## 28.02.2025
+
+- [ ] Moodle Tests vom Modul 114 HZ3 bearbeiten. 
+- [ ] Am neuen Modul arbeiten (weiss noch nicht welches)
 
 ## Reflexion
