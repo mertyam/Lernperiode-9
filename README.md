@@ -11,7 +11,12 @@ Ich werde diese Lernperiode mich weiterhin auf die LBs konzentrieren. Momentan h
 
 ## 28.02.2025
 
-- [x] Moodle Tests vom Modul 114 HZ3 bearbeiten. 
+- [x] Moodle Tests/Aufträge vom Modul 114 HZ3 bearbeiten. 
 - [x] JWT Auftrag Modul 295 (Vorberreitung LB)
+
+## 07.03.2025
+
+- [ ] Moodle Tests/Aufträge vom Modul 114 HZ3 weiter bearbeiten. 
+- [ ] Neues Projekt anfangen (Website für meine Projekte die ich beim Bewerbungsprozess angeben kann)
 
 ## Reflexion
