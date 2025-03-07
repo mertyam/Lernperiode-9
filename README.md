@@ -16,7 +16,12 @@ Ich werde diese Lernperiode mich weiterhin auf die LBs konzentrieren. Momentan h
 
 ## 07.03.2025
 
-- [ ] Moodle Tests/Aufträge vom Modul 114 HZ3 weiter bearbeiten. 
-- [ ] Neues Projekt anfangen (Website für meine Projekte die ich beim Bewerbungsprozess angeben kann)
+- [x] Moodle Tests/Aufträge vom Modul 114 HZ3 weiter bearbeiten. 
+- [x] Neues Projekt anfangen (Website für meine Projekte die ich beim Bewerbungsprozess angeben kann)
+
+## 14.03.2025
+
+- [ ] Landing Page für die Projekt Website machen 
+- [ ] Sub Pages hinzufügen
 
 ## Reflexion
