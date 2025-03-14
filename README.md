@@ -21,7 +21,13 @@ Ich werde diese Lernperiode mich weiterhin auf die LBs konzentrieren. Momentan h
 
 ## 14.03.2025
 
-- [ ] Landing Page für die Projekt Website machen 
-- [ ] Sub Pages hinzufügen
+- [x] Landing Page für die Projekt Website machen 
+- [x] Sub Pages hinzufügen
+
+## 21.03.2025
+
+- [ ] Hz4 Modul 114 bearbeiten
+- [ ] Sub Pages Mock erstellen
+
 
 ## Reflexion
