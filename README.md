@@ -26,8 +26,12 @@ Ich werde diese Lernperiode mich weiterhin auf die LBs konzentrieren. Momentan h
 
 ## 21.03.2025
 
-- [ ] Hz4 Modul 114 bearbeiten
-- [ ] Sub Pages Mock erstellen
+- [x] Hz4 Modul 114 bearbeiten
+- [/] Sub Pages Mock erstellen
 
+## 28.03.2025
+
+- [ ] Link erstellen (z.B. Button auf der Landing Page die zur Probelt Seite führt)
+- [ ] Erstes CSS styling beginnen
 
 ## Reflexion
