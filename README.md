@@ -35,7 +35,7 @@ Ich werde diese Lernperiode mich weiterhin auf die LBs konzentrieren. Momentan h
 - [x] Erstes CSS styling beginnen
 
 ## 28.03.2025
-- [ ] Linkedin Verlinkung machen und stylen
-- [ ] LB 259 Teilauftrag 3 beendet
+- [x] Linkedin Verlinkung machen und stylen
+- [x] LB 259 Teilauftrag 3 beendet
 
 ## Reflexion
