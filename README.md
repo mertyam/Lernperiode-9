@@ -39,3 +39,4 @@ Ich werde diese Lernperiode mich weiterhin auf die LBs konzentrieren. Momentan h
 - [x] LB 259 Teilauftrag 3 beendet
 
 ## Reflexion
+Ich konnte leider meine Website noch nicht beenden aber ich werde sie in der nächsten Periode weiterführen. Ich werde weiterhin an Modul Aufträgen im Lernatelier arbeiten. Ich konnte wieder einiges neues lernen besonders über HTML, CSS und JS.
