@@ -31,7 +31,11 @@ Ich werde diese Lernperiode mich weiterhin auf die LBs konzentrieren. Momentan h
 
 ## 28.03.2025
 
-- [ ] Link erstellen (z.B. Button auf der Landing Page die zur Probelt Seite führt)
-- [ ] Erstes CSS styling beginnen
+- [x] Link erstellen (z.B. Button auf der Landing Page die zur Probelt Seite führt)
+- [x] Erstes CSS styling beginnen
+
+## 28.03.2025
+- [ ] Linkedin Verlinkung machen und stylen
+- [ ] LB 259 Teilauftrag 3 beendet
 
 ## Reflexion
